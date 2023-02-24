@@ -1,1 +1,4 @@
-boss,9081282858,Latto,Daniel
+role,NetID,LastName,FirstName
+echo "boss,9081282858,Latto,Daniel" > names.txt
+role,NetID,LastName,FirstName
+role,netID,LastName,FirstName
